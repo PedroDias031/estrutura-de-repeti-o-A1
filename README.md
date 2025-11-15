@@ -36,3 +36,22 @@ Se verdadeiro (o número é positivo), exibe a mensagem de sucesso e o comando b
 else::
 
 Se falso (o número é zero ou negativo), exibe uma mensagem de erro e o laço continua (volta para while True).
+🔧 Requisitos e Execução
+Este código é puramente Python.
+
+Pré-requisitos:
+Python 3 instalado.
+
+Execução:
+Salve o código acima em um arquivo chamado, por exemplo, loops.py.
+
+Abra seu terminal.
+
+Execute o script:
+
+Bash
+
+python loops.py
+A primeira parte (for) será impressa imediatamente.
+
+A segunda parte (while) solicitará interativamente que você digite números até que um número positivo seja fornecido.
