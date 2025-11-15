@@ -1,10 +1,9 @@
 #repetição com FOR
-'''
+print ('Sistemas de voltas')
 for voltas in range (1,11):
     print(f'{voltas}ª volta')
 
-'''
-
+print ('='*30)
 
 #repetição com WHILE
 
@@ -16,3 +15,4 @@ while True:
     else:
         print('Isso nao e um numero')
     
+
